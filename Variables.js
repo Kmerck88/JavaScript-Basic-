@@ -1,13 +1,15 @@
 console.clear();
+let name;
 
-let name = "John";
+// Global Scope
+// let name = "John";
+
+// Variable Scope
+// Code Block
+
+{
+  name = "John";
+  console.log(name);
+}
 
 console.log(name);
-
-let  a = 10;
-
-let  b = 20;
-
-let sum = a + b;
-
-console.log(sum);
