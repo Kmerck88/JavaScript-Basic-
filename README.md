@@ -53,8 +53,8 @@ In this section, I'll set up milestones for my learning journey. These milestone
 ### Milestone 1 - Basic JavaScript Fundamentals
 
 - [x] Complete online tutorials on JavaScript basics.
-- [ ] Practice writing simple JavaScript programs.
-- [ ] Understand variables, data types, and operators.
+- [x] Practice writing simple JavaScript programs.
+- [x] Understand variables, data types, and operators.
 
 ### Milestone 2 - DOM Manipulation
 
