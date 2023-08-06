@@ -22,12 +22,11 @@ In this section, I'll outline the basic information about my JavaScript learning
 
 ### Current Skill Level
 
-I currently have experience with .NET and C# programming languages and  have some experience with JavaScript. 
+I currently have experience with .NET and C# programming languages and have some experience with JavaScript.
 
 ### Learning Objectives
 
 Outline your primary learning objectives. What specific topics or areas of JavaScript do you want to focus on? Mention any frameworks or libraries you plan to explore.
-
 
 ## Learning Resources
 
@@ -36,7 +35,6 @@ In this section, I'll compile a list of resources that I'll be using to learn Ja
 - [JavaScript](https://www.codecademy.com/learn/introduction-to-javascript)
 - [Resource 2](https://example.com/resource-2)
 - [Resource 3](https://example.com/resource-3)
-
 
 ## Projects
 
@@ -56,14 +54,17 @@ In this section, I'll set up milestones for my learning journey. These milestone
 - [x] Practice writing simple JavaScript programs.
 - [x] Understand variables, data types, and operators.
 
-### Milestone 2 - DOM Manipulation
+### Milestone 2 - Conditionals
 
-- [ ] Learn about the Document Object Model (DOM).
-- [ ] Build interactive web pages using JavaScript to manipulate the DOM.
+- [ ] Learn more about if statements are
+- [ ] Learn more about is... else statements are
+- [ ] comparison operators
+- [ ] Logic operators
+- [ ] Truthy and Falsy 
+- [ ] Truthy and Falsy Assignment 
+- [ ] Ternary Operator 
+- [ ] Else If Statements 
+- [ ] The switch keyword 
 
-### Milestone 3 - Front-End Frameworks
 
-- [ ] Explore popular front-end frameworks like React or Vue.js.
-- [ ] Build a project using the chosen framework.
 
-Add more milestones as you progress in your learning journey.
